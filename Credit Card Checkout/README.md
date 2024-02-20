@@ -1,8 +1,5 @@
-# React + Vite
+# Credit Card Checkout // Daily UI Challenge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a challenge inspired by [DailyUI](https://www.dailyui.co/), aimed at improving UI design skills by completing daily design challenges. It is implemented using Vite React and styled with Tailwind CSS, managed with Yarn.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/ca-trindade/dailyUI/assets/88114751/beb1fc25-9a5a-4183-a37a-8169c07e9136)
