@@ -5,3 +5,5 @@ This project is a challenge inspired by [DailyUI](https://www.dailyui.co/), aime
 
 First experience with [Radix UI](https://www.radix-ui.com/)
 
+![image](https://github.com/ca-trindade/dailyUI/assets/88114751/3f21b176-ac7c-4347-8c73-b5a68d82208a)
+![image](https://github.com/ca-trindade/dailyUI/assets/88114751/4df59ea3-f967-4109-9c9e-647c03daf39f)
